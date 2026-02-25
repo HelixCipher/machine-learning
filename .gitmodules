@@ -16,3 +16,6 @@
 [submodule "CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES"]
 	path = CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
 	url = https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
+[submodule "data-processing"]
+	path = data-processing
+	url = https://github.com/HelixCipher/data-processing
