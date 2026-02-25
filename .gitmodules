@@ -13,3 +13,6 @@
 [submodule "Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data"]
 	path = Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data
 	url = https://github.com/HelixCipher/Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data
+[submodule "CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES"]
+	path = CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
+	url = https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
