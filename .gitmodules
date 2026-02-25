@@ -1,3 +1,9 @@
 [submodule "digit-recognition"]
 	path = digit-recognition
 	url = https://github.com/HelixCipher/digit-recognition
+[submodule "digiti-signum"]
+	path = digiti-signum
+	url = https://github.com/HelixCipher/digiti-signum
+[submodule "Understanding-Data-Augmentation"]
+	path = Understanding-Data-Augmentation
+	url = https://github.com/HelixCipher/Understanding-Data-Augmentation
