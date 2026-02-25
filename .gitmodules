@@ -10,3 +10,6 @@
 [submodule "E-commerce-Conversion-Prediction"]
 	path = E-commerce-Conversion-Prediction
 	url = https://github.com/HelixCipher/E-commerce-Conversion-Prediction
+[submodule "Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data"]
+	path = Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data
+	url = https://github.com/HelixCipher/Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data
