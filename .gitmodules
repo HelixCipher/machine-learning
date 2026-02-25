@@ -1,0 +1,3 @@
+[submodule "digit-recognition"]
+	path = digit-recognition
+	url = https://github.com/HelixCipher/digit-recognition
