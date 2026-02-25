@@ -7,3 +7,6 @@
 [submodule "Understanding-Data-Augmentation"]
 	path = Understanding-Data-Augmentation
 	url = https://github.com/HelixCipher/Understanding-Data-Augmentation
+[submodule "E-commerce-Conversion-Prediction"]
+	path = E-commerce-Conversion-Prediction
+	url = https://github.com/HelixCipher/E-commerce-Conversion-Prediction
