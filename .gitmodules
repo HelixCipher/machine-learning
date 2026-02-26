@@ -22,3 +22,6 @@
 [submodule "Convolutional-Neural-Networks-CNNs-from-scratch"]
 	path = Convolutional-Neural-Networks-CNNs-from-scratch
 	url = https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch
+[submodule "digit-classifier-api"]
+	path = digit-classifier-api
+	url = https://github.com/HelixCipher/digit-classifier-api
