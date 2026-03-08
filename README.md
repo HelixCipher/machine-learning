@@ -17,7 +17,6 @@ A curated collection of machine learning projects covering various domains inclu
 | [Digiti Signum](https://github.com/HelixCipher/digiti-signum) | Fingerprint matching & alteration detection using classical CV and deep learning |
 | [Understanding Data Augmentation](https://github.com/HelixCipher/Understanding-Data-Augmentation) | ResNet18 CIFAR-10 experiment comparing models with/without augmentation |
 | [E-commerce Conversion Prediction](https://github.com/HelixCipher/E-commerce-Conversion-Prediction) | AI model predicting visitor purchase conversion for LushAura |
-| [Heat Pump Contribution Analysis](https://github.com/HelixCipher/Heat-Pump-Contribution-Analysis-Using-Real-Energy-Data) | Deep learning and analyzing heat pump energy contribution using real data |
 | [Can't See the Forest...](https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES) | Univariate analysis + decision trees/random forests for student performance |
 | [Data Processing](https://github.com/HelixCipher/data-processing) | Data preprocessing utilities + Chicago crime data analysis |
 | [CNNs from Scratch](https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch) | CNN architectures (EfficientNet/Inception-inspired) on CIFAR-10 |
