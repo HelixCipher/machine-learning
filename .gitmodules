@@ -22,3 +22,6 @@
 [submodule "digit-classifier-api"]
 	path = digit-classifier-api
 	url = https://github.com/HelixCipher/digit-classifier-api
+[submodule "fine-tuning-an-local-llm-for-web-scraping"]
+	path = fine-tuning-an-local-llm-for-web-scraping
+	url = https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping
