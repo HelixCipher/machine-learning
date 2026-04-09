@@ -20,6 +20,7 @@ A curated collection of machine learning projects covering various domains inclu
 | [Can't See the Forest...](https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES) | Univariate analysis + decision trees/random forests for student performance |
 | [Data Processing](https://github.com/HelixCipher/data-processing) | Data preprocessing utilities + Chicago crime data analysis |
 | [CNNs from Scratch](https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch) | CNN architectures (EfficientNet/Inception-inspired) on CIFAR-10 |
+| [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping) | Fine-tune Qwen2.5-3B using LoRA + Unsloth to extract structured JSON from job posting websites |
 
 ## Notable Results
 
