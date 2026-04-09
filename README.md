@@ -34,7 +34,7 @@ A curated collection of machine learning projects covering various domains inclu
 
 ## Technologies
 
-- **Deep Learning:** PyTorch, TensorFlow/Keras.
+- **Deep Learning:** PyTorch, TensorFlow/Keras, Transformers, Unsloth.
 
 - **Machine Learning:** scikit-learn.
 
@@ -45,6 +45,10 @@ A curated collection of machine learning projects covering various domains inclu
 - **Visualization:** matplotlib, seaborn.
 
 - **Web Apps:** Streamlit.
+
+- **Web Scraping:** Selenium, Playwright, BeautifulSoup, requests.
+
+- **NLP & LLMs:** LoRA, HuggingFace Hub.
 
 - **Notebooks:** Jupyter.
 
