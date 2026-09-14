@@ -1,0 +1,27 @@
+[submodule "digit-recognition"]
+	path = digit-recognition
+	url = https://github.com/HelixCipher/digit-recognition
+[submodule "digiti-signum"]
+	path = digiti-signum
+	url = https://github.com/HelixCipher/digiti-signum
+[submodule "Understanding-Data-Augmentation"]
+	path = Understanding-Data-Augmentation
+	url = https://github.com/HelixCipher/Understanding-Data-Augmentation
+[submodule "E-commerce-Conversion-Prediction"]
+	path = E-commerce-Conversion-Prediction
+	url = https://github.com/HelixCipher/E-commerce-Conversion-Prediction
+[submodule "CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES"]
+	path = CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
+	url = https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
+[submodule "data-processing"]
+	path = data-processing
+	url = https://github.com/HelixCipher/data-processing
+[submodule "Convolutional-Neural-Networks-CNNs-from-scratch"]
+	path = Convolutional-Neural-Networks-CNNs-from-scratch
+	url = https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch
+[submodule "digit-classifier-api"]
+	path = digit-classifier-api
+	url = https://github.com/HelixCipher/digit-classifier-api
+[submodule "fine-tuning-an-local-llm-for-web-scraping"]
+	path = fine-tuning-an-local-llm-for-web-scraping
+	url = https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping
