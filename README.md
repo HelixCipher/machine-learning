@@ -21,6 +21,8 @@ A curated collection of machine learning projects covering various domains inclu
 | [Data Processing](https://github.com/HelixCipher/data-processing) | Data preprocessing utilities + Chicago crime data analysis |
 | [CNNs from Scratch](https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch) | CNN architectures (EfficientNet/Inception-inspired) on CIFAR-10 |
 | [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping) | Fine-tune Qwen2.5-3B using LoRA + Unsloth to extract structured JSON from job posting websites |
+| [Digit Classifier API](https://github.com/HelixCipher/digit-classifier-api) | FastAPI service for handwritten digit classification with a browser frontend |
+| [Spam Detection](https://github.com/HelixCipher/spam-detection-using-AI) | SMS spam classifier using Multinomial Naive Bayes with a Streamlit demo app |
 
 ## Notable Results
 
@@ -31,6 +33,8 @@ A curated collection of machine learning projects covering various domains inclu
 - **99%** handwritten digit recognition (MNIST CNN).
 
 - **98.40%** multi-class fingerprint classification (4 alteration types).
+
+- **98.07%** SMS spam detection accuracy (Multinomial Naive Bayes, F1 92.31%).
 
 ## Technologies
 
@@ -48,7 +52,7 @@ A curated collection of machine learning projects covering various domains inclu
 
 - **Web Scraping:** Selenium, Playwright, BeautifulSoup, requests.
 
-- **NLP & LLMs:** LoRA, HuggingFace Hub.
+- **NLP & LLMs:** NLTK, LoRA, HuggingFace Hub.
 
 - **Notebooks:** Jupyter.
 

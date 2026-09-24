@@ -25,3 +25,6 @@
 [submodule "fine-tuning-an-local-llm-for-web-scraping"]
 	path = fine-tuning-an-local-llm-for-web-scraping
 	url = https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping
+[submodule "spam-detection-using-AI"]
+	path = spam-detection-using-AI
+	url = https://github.com/HelixCipher/spam-detection-using-AI
