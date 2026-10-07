@@ -28,3 +28,6 @@
 [submodule "spam-detection-using-AI"]
 	path = spam-detection-using-AI
 	url = https://github.com/HelixCipher/spam-detection-using-AI
+[submodule "malware-classification"]
+	path = malware-classification
+	url = https://github.com/HelixCipher/malware-classification
