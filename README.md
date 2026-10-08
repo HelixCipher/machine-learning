@@ -2,7 +2,7 @@
 
 <img align="left" width="250" height="250" src="project_image.png">
 
-A curated collection of machine learning projects covering various domains including computer vision, predictive modeling, and data analysis.
+A curated collection of machine learning projects covering various domains including computer vision, predictive modeling, cybersecurity, and data analysis.
 
 <br><br>
 <br><br>
@@ -23,6 +23,7 @@ A curated collection of machine learning projects covering various domains inclu
 | [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping) | Fine-tune Qwen2.5-3B using LoRA + Unsloth to extract structured JSON from job posting websites |
 | [Digit Classifier API](https://github.com/HelixCipher/digit-classifier-api) | FastAPI service for handwritten digit classification with a browser frontend |
 | [Spam Detection](https://github.com/HelixCipher/spam-detection-using-AI) | SMS spam classifier using Multinomial Naive Bayes with a Streamlit demo app |
+| [Malware Classification](https://github.com/HelixCipher/malware-classification) | Malware family classification from byteplot images using a custom CNN and transfer learning |
 
 ## Notable Results
 
@@ -36,9 +37,11 @@ A curated collection of machine learning projects covering various domains inclu
 
 - **98.07%** SMS spam detection accuracy (Multinomial Naive Bayes, F1 92.31%).
 
+- **98.91%** malware family classification macro F1 (Inception-v3 transfer learning, accuracy 99.52%).
+
 ## Technologies
 
-- **Deep Learning:** PyTorch, TensorFlow/Keras, Transformers, Unsloth.
+- **Deep Learning:** PyTorch, torchvision, TensorFlow/Keras, Transformers, Unsloth.
 
 - **Machine Learning:** scikit-learn.
 
@@ -46,7 +49,7 @@ A curated collection of machine learning projects covering various domains inclu
 
 - **Data Processing:** pandas, numpy.
 
-- **Visualization:** matplotlib, seaborn.
+- **Visualization:** matplotlib, seaborn, manim.
 
 - **Web Apps:** Streamlit.
 
