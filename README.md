@@ -24,7 +24,7 @@ A curated collection of machine learning projects covering various domains inclu
 | [Digit Classifier API](https://github.com/HelixCipher/digit-classifier-api) | FastAPI service for handwritten digit classification with a browser frontend |
 | [Spam Detection](https://github.com/HelixCipher/spam-detection-using-AI) | SMS spam classifier using Multinomial Naive Bayes with a Streamlit demo app |
 | [Malware Classification](https://github.com/HelixCipher/malware-classification) | Malware family classification from byteplot images using a custom CNN and transfer learning |
-| [Malware Detection](https://github.com/HelixCipher/malware-detection) | Unsupervised malware detection from byteplot tiles using a benign-only autoencoder and frozen DINOv2 with Mahalanobis scoring |
+| [Malware Detection](https://github.com/HelixCipher/malware-detection) | Unsupervised malware detection from reversible byteplot tiles with a benign-only autoencoder and frozen DINOv2 Mahalanobis scoring |
 
 ## Notable Results
 
