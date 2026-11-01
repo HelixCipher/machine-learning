@@ -1,6 +1,3 @@
-[submodule "digit-recognition"]
-	path = digit-recognition
-	url = https://github.com/HelixCipher/digit-recognition
 [submodule "digiti-signum"]
 	path = digiti-signum
 	url = https://github.com/HelixCipher/digiti-signum
@@ -31,3 +28,9 @@
 [submodule "malware-classification"]
 	path = malware-classification
 	url = https://github.com/HelixCipher/malware-classification
+[submodule "malware-detection"]
+	path = malware-detection
+	url = https://github.com/HelixCipher/malware-detection
+[submodule "digit-recognition"]
+	path = digit-recognition
+	url = https://github.com/HelixCipher/digit-recognition
