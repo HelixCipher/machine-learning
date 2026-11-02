@@ -28,13 +28,11 @@ A curated collection of machine learning projects covering various domains inclu
 
 ## Notable Results
 
-- **99.47%** fingerprint alteration detection (ResNet18 transfer learning).
+- **99.47%** fingerprint alteration classification test accuracy (ResNet18 transfer learning); extended-training variant reaches 98.40%.
 
 - **95.17%** CIFAR-10 accuracy with data augmentation (+6.4% improvement over baseline).
 
-- **99%** handwritten digit recognition (MNIST CNN).
-
-- **98.40%** multi-class fingerprint classification (4 alteration types).
+- **~99%** MNIST handwritten digit test accuracy (CNN with augmentation).
 
 - **98.07%** SMS spam detection accuracy (Multinomial Naive Bayes, F1 92.31%).
 
