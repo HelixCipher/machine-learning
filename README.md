@@ -30,11 +30,11 @@ A curated collection of machine learning projects covering various domains inclu
 
 - **99.47%** fingerprint alteration classification test accuracy (ResNet18 transfer learning); extended-training variant reaches 98.40%.
 
-- **95.17%** CIFAR-10 accuracy with data augmentation (+6.4% improvement over baseline).
+- **95.17%** CIFAR-10 accuracy with data augmentation (+5.70 points over the 89.47% baseline, +6.4% relative).
 
 - **~99%** MNIST handwritten digit test accuracy (CNN with augmentation).
 
-- **98.07%** SMS spam detection accuracy (Multinomial Naive Bayes, F1 92.31%).
+- **98.07%** SMS spam detection test accuracy (Multinomial Naive Bayes; spam-class F1 92.31%)
 
 - **98.91%** malware family classification macro F1 (Inception-v3 transfer learning, accuracy 99.52%).
 
