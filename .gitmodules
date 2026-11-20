@@ -4,9 +4,6 @@
 [submodule "Understanding-Data-Augmentation"]
 	path = Understanding-Data-Augmentation
 	url = https://github.com/HelixCipher/Understanding-Data-Augmentation
-[submodule "E-commerce-Conversion-Prediction"]
-	path = E-commerce-Conversion-Prediction
-	url = https://github.com/HelixCipher/E-commerce-Conversion-Prediction
 [submodule "CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES"]
 	path = CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
 	url = https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES
@@ -28,9 +25,12 @@
 [submodule "malware-classification"]
 	path = malware-classification
 	url = https://github.com/HelixCipher/malware-classification
-[submodule "malware-detection"]
-	path = malware-detection
-	url = https://github.com/HelixCipher/malware-detection
 [submodule "digit-recognition"]
 	path = digit-recognition
 	url = https://github.com/HelixCipher/digit-recognition
+[submodule "malware-detection"]
+	path = malware-detection
+	url = https://github.com/HelixCipher/malware-detection
+[submodule "E-commerce-Conversion-Prediction"]
+	path = E-commerce-Conversion-Prediction
+	url = https://github.com/HelixCipher/E-commerce-Conversion-Prediction
